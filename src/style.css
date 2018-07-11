@@ -1,0 +1,29 @@
+#Post-wrapper > div {
+  float: left;
+  width: 100%;
+}
+.single-post {
+  padding: 10px 0;
+}
+.single-post i {
+  color: red;
+  font-size: 22px;
+}
+.hide-card i {
+  display: none;
+}
+.show-card .card-body {
+  box-shadow: 10px 10px 14px 2px #5d5b5b;
+}
+.show-textarea {
+  display: block
+}
+.hide-textarea {
+  display: none
+}
+.single-post i {
+  cursor: pointer;
+}
+.i-active {
+  text-shadow: 0px -1px 11px #FF0000
+}
